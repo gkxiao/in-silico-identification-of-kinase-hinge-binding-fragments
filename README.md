@@ -1,4 +1,4 @@
-<h2>papers about in silico indentification of kinase hinge binding fragments</h2>
+<h2>papers about in silico identification of kinase hinge binding fragments</h2>
 <ol>
    <li>Sydow, D.; Schmiel, P.; Mortier, J.; Volkamer, A. KinFragLib: Exploring the Kinase Inhibitor Space Using Subpocket-Focused Fragmentation and Recombination. J. Chem. Inf. Model. 2020, 60 (12), 6081–6094. https://doi.org/10.1021/acs.jcim.0c00839.</li>
    <li>Rachman, M.; Bajusz, D.; Hetényi, A.; Scarpino, A.; Mero, B.; Egyed, A.; Buday, L.; Barril, X.; Keseru, G. M. Discovery of a Novel Kinase Hinge Binder Fragment by Dynamic Undocking. RSC Med. Chem. 2020, 11 (5), 552–558. https://doi.org/10.1039/c9md00519f.</li>
