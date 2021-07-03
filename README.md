@@ -10,6 +10,8 @@
    <li>Urich, R.; Wishart, G.; Kiczun, M.; Richters, A.; Tidten-Luksch, N.; Rauh, D.; Sherborne, B.; Wyatt, P. G.; Brenk, R. De Novo Design of Protein Kinase Inhibitors by in Silico Identification of Hinge Region-Binding Fragments. ACS Chem. Biol. 2013, 8 (5), 1044–1052. https://doi.org/10.1021/cb300729y.</li>
    <li>Zhao, H.; Dong, J.; Lafleur, K.; Nevado, C.; Caflisch, A. Discovery of a Novel Chemotype of Tyrosine Kinase Inhibitors by Fragment-Based Docking and Molecular Dynamics. ACS Med. Chem. Lett. 2012, 3 (10), 834–838. https://doi.org/10.1021/ml3001984.</li>
    <li>Lippert, T.; Schulz-Gasch, T.; Roche, O.; Guba, W.; Rarey, M. De Novo Design by Pharmacophore-Based Searches in Fragment Spaces. J. Comput. Aided. Mol. Des. 2011, 25 (10), 931–945. https://doi.org/10.1007/s10822-011-9473-6.</li>
+   <li>Kolb, P.; Kipouros, C. B.; Huang, D.; Caflisch, A. Structure-Based Tailoring of Compound Libraries for High-Throughput Screening: Discovery of Novel EphB4 Kinase Inhibitors. Proteins Struct. Funct. Bioinforma. 2008, 73 (1), 11–18. https://doi.org/10.1002/prot.22028.</p>
+   
 </ol>
 
 <h2>Some things may be useful</h2>
