@@ -6,7 +6,6 @@
    <li>Mukherjee, P.; Bentzien, J.; Bosanac, T.; Mao, W.; Burke, M.; Muegge, I. Kinase Crystal Miner: A Powerful Approach to Repurposing 3D Hinge Binding Fragments and Its Application to Finding Novel Bruton Tyrosine Kinase Inhibitors. J. Chem. Inf. Model. 2017, 57 (9), 2152–2160. https://doi.org/10.1021/acs.jcim.7b00213.</li>
    <li>Xing, L.; Klug-Mcleod, J.; Rai, B.; Lunney, E. A. Kinase Hinge Binding Scaffolds and Their Hydrogen Bond Patterns. Bioorganic Med. Chem. 2015, 23 (19), 6520–6527. https://doi.org/10.1016/j.bmc.2015.08.006.</li>
    <li>Xing, L.; Rai, B.; Lunney, E. A. Scaffold Mining of Kinase Hinge Binders in Crystal Structure Database. J. Comput. Aided. Mol. Des. 2014, 28 (1), 13–23. https://doi.org/10.1007/s10822-013-9700-4.</li>
-   <li></li>
    <li>Urich, R.; Wishart, G.; Kiczun, M.; Richters, A.; Tidten-Luksch, N.; Rauh, D.; Sherborne, B.; Wyatt, P. G.; Brenk, R. De Novo Design of Protein Kinase Inhibitors by in Silico Identification of Hinge Region-Binding Fragments. ACS Chem. Biol. 2013, 8 (5), 1044–1052. https://doi.org/10.1021/cb300729y.</li>
    <li>Zhao, H.; Dong, J.; Lafleur, K.; Nevado, C.; Caflisch, A. Discovery of a Novel Chemotype of Tyrosine Kinase Inhibitors by Fragment-Based Docking and Molecular Dynamics. ACS Med. Chem. Lett. 2012, 3 (10), 834–838. https://doi.org/10.1021/ml3001984.</li>
    <li>Lippert, T.; Schulz-Gasch, T.; Roche, O.; Guba, W.; Rarey, M. De Novo Design by Pharmacophore-Based Searches in Fragment Spaces. J. Comput. Aided. Mol. Des. 2011, 25 (10), 931–945. https://doi.org/10.1007/s10822-011-9473-6.</li>
