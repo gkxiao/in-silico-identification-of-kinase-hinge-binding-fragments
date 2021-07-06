@@ -28,3 +28,15 @@ S1 for the calculated binding conformation).</p>
    <li>Vieth, M.; Erickson, J.; Jibo, W.; Webster, Y.; Mader, M.; Higgs, R.; Watson, I. Kinase Inhibitor Data Modeling and de Novo Inhibitor Design with Fragment Approaches. J. Med. Chem. 2009, 52 (20), 6456–6466. https://doi.org/10.1021/jm901147e.</li>
    <p>A reconstructive approach based on computational fragmentation of existing inhibitors and validated kinase potency models to recombine and create “de novo” kinase inhibitor small molecule libraries is described. The screening results from model selected molecules from the corporate database and seven computationally derived small molecule libraries were used to evaluate this approach. </p>
 </ol>
+
+<h2>Kinase hinge binding fragments preparation</h2>
+<ol>
+   <li>Download kinase inhibitors from ZINC15</li>
+   <p>http://zinc15.docking.org/subclasses/kinase/observations</p>
+   <p>saved as: kinase-observations-zinc15.mol2.gz</p>
+   <li>fragment the kinase inhibitor</li>
+   <pre lang="python">
+   lefrag_linux_x86 -flib kinase-observations-zinc15.mol2
+   </pre>
+   <p>Result was saved as :fragment-from-kinase-observations-zinc15.mol2</pre>
+</ol>
