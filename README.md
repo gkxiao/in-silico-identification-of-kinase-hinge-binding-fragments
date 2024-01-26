@@ -12,6 +12,17 @@
    <li>Kolb, P.; Kipouros, C. B.; Huang, D.; Caflisch, A. Structure-Based Tailoring of Compound Libraries for High-Throughput Screening: Discovery of Novel EphB4 Kinase Inhibitors. Proteins Struct. Funct. Bioinforma. 2008, 73 (1), 11–18. https://doi.org/10.1002/prot.22028.</p>
    
 </ol>
+<h2>DFG</h2>
+<ol>
+   <li>Man-Un Ung, P., & Schlessinger, A. (2014). DFGmodel: Predicting Protein Kinase Structures in Inactive States for Structure-Based Discovery of Type-II Inhibitors. ACS Chemical Biology, 10(1), 269–278. https://doi.org/10.1021/cb500696t</li>
+   <li>Horbert, R., Pinchuk, B., Johannes, E., Schlosser, J., Schmidt, D., Cappel, D., Totzke, F., Schächtele, C., & Peifer, C. (2015). Optimization of potent dfg-in inhibitors of platelet derived growth factor receptorβ (PDGF-Rβ) guided by water thermodynamics. Journal of Medicinal Chemistry, 58(1), 170–182. https://doi.org/10.1021/jm500373x</li>
+   <li>Iwata, H., Oki, H., Okada, K., Takagi, T., Tawada, M., Miyazaki, Y., Imamura, S., Hori, A., Lawson, J. D., Hixon, M. S., Kimura, H., & Miki, H. (2012). A back-to-front fragment-based drug design search strategy targeting the DFG-out pocket of protein tyrosine kinases. ACS Medicinal Chemistry Letters, 3(4), 342–346. https://doi.org/10.1021/ml3000403</li>
+   <li>S. K. Vijayan, R., He, P., Modi, V., C. Duong-Ly, K., Ma, H., R. Peterson, J., L. Dunbrack Jr., R., & M. Levy, R. (2014). Conformational Analysis of the DFG-Out Kinase Motif and Biochemical Profiling of Structurally Validated Type II Inhibitors. Journal of Medicinal Chemistry, 58(1), 466–479. https://doi.org/10.1021/jm501603h</li>
+   <li>Treiber, D. K., & Shah, N. P. (2013). Ins and Outs of Kinase DFG Motifs. Chemistry & Biology, 20(6), 745–746. https://doi.org/10.1016/J.CHEMBIOL.2013.06.001</li>
+   <li>https://www.cambridgemedchemconsulting.com/resources/hit_identification/focus/kinaseinhib.html</li>
+   <li>Sharma, V., & Gupta, M. (2022). Designing of kinase hinge binders: A medicinal chemistry perspective. Chemical Biology & Drug Design, 100, 968–980. https://doi.org/10.1111/cbdd.14024</li>
+   <li>Brian Anderson, Peter Rosston, Han Wee Ong, Mohammad Anwar Hossain, Zachary W. Davis-Gilbert, David H. Drewry; How many kinases are druggable? A review of our current understanding. Biochem J 29 August 2023; 480 (16): 1331–1363. doi: https://doi.org/10.1042/BCJ20220217</li>
+</ol>
 
 <h2>Some things may be useful</h2>
 
