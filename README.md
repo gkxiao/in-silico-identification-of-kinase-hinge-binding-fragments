@@ -38,6 +38,7 @@ S1 for the calculated binding conformation).</p>
    <li>Mucs, D.; Bryce, R. A.; Bonnet, P. Application of Shape-Based and Pharmacophore-Based in Silico Screens for Identification of Type II Protein Kinase Inhibitors. J. Comput. Aided. Mol. Des. 2011, 25 (6), 569–581. https://doi.org/10.1007/s10822-011-9442-0.</li>
    <li>Vieth, M.; Erickson, J.; Jibo, W.; Webster, Y.; Mader, M.; Higgs, R.; Watson, I. Kinase Inhibitor Data Modeling and de Novo Inhibitor Design with Fragment Approaches. J. Med. Chem. 2009, 52 (20), 6456–6466. https://doi.org/10.1021/jm901147e.</li>
    <p>A reconstructive approach based on computational fragmentation of existing inhibitors and validated kinase potency models to recombine and create “de novo” kinase inhibitor small molecule libraries is described. The screening results from model selected molecules from the corporate database and seven computationally derived small molecule libraries were used to evaluate this approach. </p>
+   <li>Zhao, Z., & E. Bourne, P. (2023). How Ligands Interact with the Kinase Hinge. ACS Medicinal Chemistry Letters, 14(11), 1503–1508. https://doi.org/10.1021/acsmedchemlett.3c00212</li>
 </ol>
 
 <h2>Kinase hinge binding fragments preparation</h2>
